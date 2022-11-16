@@ -16,7 +16,7 @@ allprojects {
   
  ```build
   dependencies {
-	        implementation 'com.github.jayrhalani:Toaster:Tag'
+	        implementation 'com.github.jayrhalani:Toaster:0.0.1'
 	}
   ```
   
